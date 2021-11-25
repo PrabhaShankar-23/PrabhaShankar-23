@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PrabhaShankar-23
-- 👀 I’m interested in Python, DAX & M query.
+- 👀 I’m interested in Business Intelligence & Machine Learning.
 - 🌱 I’m currently learning Machine Learning, Power BI
 - 💞️ I’m looking to collaborate on Machine Learning projects.
 - 📫 How to reach me 
