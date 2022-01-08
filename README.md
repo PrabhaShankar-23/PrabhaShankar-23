@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prabha Shanker
-- 👀 I’m interested in front End Web Development.
-- 🌱 I’m currently learning Machine Learning, Power BI
+- 👀 I’m interested in front End Web Development projects.
+- 🌱 I’m currently enjoying challenges in Web Development
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 Kindly reach me at psm.nits@gmail.com
 
