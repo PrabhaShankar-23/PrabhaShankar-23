@@ -1,22 +1,28 @@
-👋 Hi, I’m Prabha Shanker
+👋 Hey there, I’m Prabha Shanker
 
-🚀 Full Stack Architect | System Design Enthusiast | Cloud-Native Solutions Builder
+🚀 Full Stack Architect | Backend Specialist | Cloud-Native System Designer
 
-I specialize in designing and developing scalable, high-performance applications across the stack — from intuitive front-end experiences to robust backend systems. My passion lies in solving real-world problems with clean architecture, modern frameworks, and cloud-native infrastructure.
+I love building things that scale beautifully — from sleek front-end experiences to resilient backend architectures. Over the years, I’ve worked across the stack, but I’ve got a soft spot for backend engineering, clean architecture, and distributed systems that just don’t break under pressure.
 
-💡 What I’m interested in:
+💡 My Current Stack
 
-Building performant web applications using React, TypeScript, Spring Boot, and microservice architectures
+Frontend: React, TypeScript, Redux Toolkit, Next.js, Tailwind CSS
 
-Designing distributed systems, event-driven pipelines, and cloud deployments (AWS, Kubernetes, Docker)
+Backend: Java, Spring Boot, Node.js, Express.js, REST & GraphQL APIs
 
-🤝 Open to collaborate on:
+Databases: MySQL, PostgreSQL, MongoDB
 
-End-to-end product development
+Cloud & DevOps: AWS, Docker, Kubernetes, Microservices, Kafka, CI/CD Pipelines
 
-Architecture reviews and system design discussions
+Architecture Focus: Event-driven design, System scalability, Cloud-native solutions
 
-Developer productivity and CI/CD automation projects
+🤝 Let’s collaborate on
+
+Scalable full stack projects
+
+Backend-heavy architectures & performance tuning
+
+DevOps automation and system design discussions
 
 📫 Reach me at: psm.nits@gmail.com
 
